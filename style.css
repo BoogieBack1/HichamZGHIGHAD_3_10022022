@@ -8,5 +8,8 @@
   src: url("fonts/Roboto-Regular.eot");
   src: url("fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Roboto-Regular.woff2") format("woff2"), url("fonts/Roboto-Regular.woff") format("woff"), url("fonts/Roboto-Regular.ttf") format("truetype"), url("fonts/Roboto-Regular.svg#Roboto") format("svg");
 }
+h1 {
+  font-family: "Shrikhand";
+}
 
 /*# sourceMappingURL=style.css.map */
