@@ -10,6 +10,9 @@
 }
 h1 {
   font-family: "Shrikhand";
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*# sourceMappingURL=style.css.map */
