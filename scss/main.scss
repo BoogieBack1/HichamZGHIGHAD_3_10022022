@@ -126,6 +126,11 @@
     background-color: #f6f6f6;
     display: flex;
     position: relative;
+    &:hover {
+      cursor: pointer;
+      opacity: 0.9;
+      transition: 0.5s;
+      background-color: #e49cf7;}
 
     @media (min-width:64rem) {
       flex: 1;

@@ -420,6 +420,12 @@
   display: flex;
   position: relative;
 }
+.tuto__step:hover {
+  cursor: pointer;
+  opacity: 0.9;
+  transition: 0.5s;
+  background-color: #e49cf7;
+}
 @media (min-width: 64rem) {
   .tuto__step {
     flex: 1;
