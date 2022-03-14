@@ -423,8 +423,8 @@
 .tuto__step:hover {
   cursor: pointer;
   opacity: 0.9;
-  transition: 0.5s;
-  background-color: #e49cf7;
+  transition: 1s;
+  background-color: #e3b7f0;
 }
 @media (min-width: 64rem) {
   .tuto__step {
@@ -456,6 +456,9 @@
 .tuto__icon {
   margin-right: 1rem;
   color: #7e7e7e;
+}
+.tuto__icon:hover {
+  color: #9356DC;
 }
 
 .restaurants {
